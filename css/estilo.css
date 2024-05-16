@@ -1,0 +1,42 @@
+
+p {
+    font- family:'poppins', sans-serif;
+}
+
+/* Body*/
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color:#a89b9f;
+    color:#020001; 
+
+}                  
+
+/* Header */
+
+header {
+    background-color: #a89b9f;
+    color:#a89b9f;
+    margin: 0px 0px ;
+    padding: 0px  0px;
+
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    gap: 230px;
+}
+
+main .textos{
+    text-align: center;
+}
+
+main .textos h1 span{
+    display: block;
+}
+
+
+
